@@ -1,4 +1,4 @@
-This README is adapted from https://github.com/munikarmanish/bert-sentiment  
+This code and README is adapted from https://github.com/munikarmanish/bert-sentiment  
 It was originally used in 'Fine-grained Sentiment Classification using BERT' (https://arxiv.org/abs/1910.03474).
 This code trains a bert classifier for sentiment analysis and makes predictions on test data.
 
